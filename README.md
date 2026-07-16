@@ -24,8 +24,14 @@ The Digital Recipe Book is an ASP.NET application that enables users to create, 
 ### Home Page
 ![Home](Screenshots/Home.png)
 
-### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+### My Recipes
+![Dashboard](Screenshots/MyRecipe.png)
 
 ### Recipe Details
 ![Recipe Details](Screenshots/RecipeDetails.png)
+
+### Favorites
+![Favorites](Screenshots/Favorites.png)
+
+### Profile
+![Profile](Screenshots/Profile.png)
