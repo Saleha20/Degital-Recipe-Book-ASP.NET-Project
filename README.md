@@ -1,2 +1,31 @@
-# Degital-Recipe-Book-ASP.NET-Project
-The Digital Recipe Book offers user registration and secure login, enabling individuals to create accounts and manage their profiles. It provides comprehensive recipe management, allowing users to add, edit, delete, and view recipe details. With robust search and filter functionality, users can quickly find recipes by name, ingredients, or category. A favorites feature lets users save preferred recipes for easy access. The platform includes a badge and skill level system to reward user activity and encourage engagement. It also maintains a profile update log through database triggers for audit purposes. Additionally, users can explore and view recipes shared by others, fostering a community-driven experience.
+# Digital Recipe Book
+
+## Overview
+The Digital Recipe Book is an ASP.NET application that enables users to create, manage, and discover recipes through a secure and user-friendly interface.
+
+## Features
+- User Registration & Login
+- Recipe Management (CRUD)
+- Search & Filter Recipes
+- Favorites System
+- Badge & Skill Level System
+- Profile Update Log using SQL Triggers
+- Community Recipe Sharing
+
+## Technologies Used
+- ASP.NET
+- C#
+- SQL Server
+- HTML
+- CSS
+
+## Screenshots
+
+### Home Page
+![Home](Screenshots/Home.png)
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Recipe Details
+![Recipe Details](Screenshots/RecipeDetails.png)
